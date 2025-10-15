@@ -3,4 +3,4 @@ Rebuilding HTTP server with raw sockets for learning purposes. The server routes
 
 ## Architecture
 
-![homecooked httpserver](homecooked_http.png)
+![homecooked httpserver](Homecooked_HTTP.png)
