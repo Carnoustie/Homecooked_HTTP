@@ -5,4 +5,4 @@ No AI tools/copy-pasting.
 
 ## Architecture
 
-![homecooked httpserver](Homecooked_HTTP.png)
+![homecooked httpserver](Homecooked_HTTPv2.png)
